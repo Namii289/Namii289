@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like dogs
+- ⚡ Fun fact: I'm an architecture student
 
 <!---
 Namii289/Namii289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
